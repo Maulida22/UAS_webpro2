@@ -17,6 +17,7 @@ Teknologi Aplikasi ini dibangun dengan menggunakan
 3. Google Chrome - Aplikasi Google Chrome adalah browser web cepat yang tersedia tanpa biaya yang merupakan tools penting dalam membuat sebuah halaman website, dsb.
 4. Phpmyadmin - Salah satu software gratis yang ditulis dalam bahasa PHP dan merupakan software yang paling populer digunakan untuk mengelola tabel dan data pada database melalui web
 5. Laravel - Framework PHP yang open-source dan berisi banyak modul dasar untuk mengoptimalkan kinerja PHP dalam pengembangan aplikasi web
+6. Boostrap - Framewrok HTML, CSS, Javascript yang berfungsi untuk mendesain website responsive dengan cepat mudah .
 
 Deskripsi Aplikasi 
 Aplikasi ini dibuat pakai framework laravel Aplikasi berfungsi menyimpan, mengubah, menghapus data mahasiswa. Untuk login nama : admin, password : 123456, setelah berhasil login akan menampilkan halaman data mahasiswa. Jika klik logout akan kembali ke halaman login

@@ -1,2 +1,22 @@
 # UAS_webpro2
 UAS WEBPRO 2
+Membuat Aplikasi Database Mahasiswa Projek kelompok UAS Webpro2 Anggota Kelompok
+Firman Affandi - 2020046
+Maulida Fikriah - 2020042
+Siti Badariyah - 2020017
+
+Fitur Aplikasi Database Mahasiswa
+Login
+Dashboard
+CRUD User
+Halaman input, edit, delete data mahasiswa (Nim, Nama, Jurusan)
+
+Teknologi Aplikasi ini dibangun dengan menggunakan
+1. XAMPP - Aplikasi XAMPP merupakan sebuah paket perangkat lunak (software) komputer yang berfungsi sebagai server lokal untuk mengampu berbagai jenis data website yang sedang dalam proses pengembangan.
+2. Visual Studio Code - Aplikasi Visual Studio Code merupakan perangkat lunak penyunting kode-sumber buatan microsoft untuk Linux, macOS, dan Windows. Visual Studio Code menyediakan fitur seperti penyorotan sintaksis, penyelesaian kode, kutipan kode, merefaktor kode, dan Git.
+3. Google Chrome - Aplikasi Google Chrome adalah browser web cepat yang tersedia tanpa biaya yang merupakan tools penting dalam membuat sebuah halaman website, dsb.
+4. Phpmyadmin - Salah satu software gratis yang ditulis dalam bahasa PHP dan merupakan software yang paling populer digunakan untuk mengelola tabel dan data pada database melalui web
+5. Laravel - Framework PHP yang open-source dan berisi banyak modul dasar untuk mengoptimalkan kinerja PHP dalam pengembangan aplikasi web
+
+Deskripsi Aplikasi 
+Aplikasi ini dibuat pakai framework laravel Aplikasi berfungsi menyimpan, mengubah, menghapus data mahasiswa. Untuk login nama : admin, password : 123456, setelah berhasil login akan menampilkan halaman data mahasiswa. Jika klik logout akan kembali ke halaman login

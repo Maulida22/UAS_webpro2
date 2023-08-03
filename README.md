@@ -6,10 +6,10 @@ Membuat Aplikasi Database Mahasiswa Projek kelompok UAS Webpro2 Anggota Kelompok
 3. Siti Badariyah - 2020017
 
 Fitur Aplikasi Database Mahasiswa
-1. Login
-2. Dashboard
-3. CRUD User
-4. Halaman input, edit, delete data mahasiswa (Nim, Nama, Jurusan)
+- Login
+- Dashboard
+- CRUD User
+- Halaman input, edit, delete data mahasiswa (Nim, Nama, Jurusan)
 
 Teknologi Aplikasi ini dibangun dengan menggunakan
 1. XAMPP - Aplikasi XAMPP merupakan sebuah paket perangkat lunak (software) komputer yang berfungsi sebagai server lokal untuk mengampu berbagai jenis data website yang sedang dalam proses pengembangan.
@@ -20,4 +20,8 @@ Teknologi Aplikasi ini dibangun dengan menggunakan
 6. Boostrap - Framewrok HTML, CSS, Javascript yang berfungsi untuk mendesain website responsive dengan cepat mudah .
 
 Deskripsi Aplikasi 
-Aplikasi ini dibuat pakai framework laravel Aplikasi berfungsi menyimpan, mengubah, menghapus data mahasiswa. Untuk login nama : admin, password : 123456, setelah berhasil login akan menampilkan halaman data mahasiswa. Jika klik logout akan kembali ke halaman login
+1. Aplikasi ini dibuat pakai framework laravel Aplikasi berfungsi menyimpan, mengubah, menghapus data mahasiswa. 
+2. Halaman Login -> untuk Login diperlukan memasukkan nama : admin dan password :123456 Ketika berhasil login akan masuk ke halaman mahasiswa. Jika Klik tombol Logout akan kembali ke halaman Login.
+3. Halaman Dashboard -> menapilkan halaman yang berisi tabel data mahasiswa yang berisi NIM, Nama, JUrusan dan Aksi. Pada Dashboar kita dapat menambahkan data pada tabel dengan mengklik tombol tambah (+Tambah Data) dan juga melakukan perubahan data (Edit) atau penghapusan data (Del) dengan menekan salah satu tombol pada kolom Aksi.
+4. CRUD User berisi kolom untuk mengisi data mahasiswa yang terdiri dari NIM, Nama dan Jurusan
+5. Halaman Input, Edit dan Delete ketika admin selesai memasukkan data dan menekan tombol simpan maka akan terlihat notifikasi "Berhasil menambahkan data

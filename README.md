@@ -1,15 +1,15 @@
 # UAS_webpro2
 UAS WEBPRO 2
 Membuat Aplikasi Database Mahasiswa Projek kelompok UAS Webpro2 Anggota Kelompok
-Firman Affandi - 2020046
-Maulida Fikriah - 2020042
-Siti Badariyah - 2020017
+1. Firman Affandi - 2020046
+2. Maulida Fikriah - 2020042
+3. Siti Badariyah - 2020017
 
 Fitur Aplikasi Database Mahasiswa
-Login
-Dashboard
-CRUD User
-Halaman input, edit, delete data mahasiswa (Nim, Nama, Jurusan)
+1. Login
+2. Dashboard
+3. CRUD User
+4. Halaman input, edit, delete data mahasiswa (Nim, Nama, Jurusan)
 
 Teknologi Aplikasi ini dibangun dengan menggunakan
 1. XAMPP - Aplikasi XAMPP merupakan sebuah paket perangkat lunak (software) komputer yang berfungsi sebagai server lokal untuk mengampu berbagai jenis data website yang sedang dalam proses pengembangan.
